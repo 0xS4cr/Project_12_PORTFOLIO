@@ -39,7 +39,7 @@ class App extends Component {
             <Projects />
           </section>
           <section className="learn-section">
-            <h1><FormattedMessage id="learn.title" defaultMessage="Independant Web Developer" /></h1>
+            <h1 id='More'><FormattedMessage id="learn.title" defaultMessage="Independant Web Developer" /></h1>
             <p>
             <FormattedMessage id="learn.subtitle1" defaultMessage="Independant Web Developer" />
             </p>
