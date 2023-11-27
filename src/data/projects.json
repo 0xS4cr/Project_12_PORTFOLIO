@@ -2,7 +2,7 @@
     "projets": [
       {
         "nom": "Booki",
-        "image": "../assets/projectsImg/booki.png",
+        "image": "booki",
         "description": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.Je suis chargé d'intégrer l'interface du site avec du code HTML et CSS.",
         "technologies": ["#HTML", "#CSS", "#Intégration"],
         "icones": {
@@ -12,7 +12,7 @@
       },
       {
         "nom": "Oh My Food",
-        "image": "../src/assets/projectsImg/booki.png",
+        "image": "ohmyfood",
         "description": "OhMyFood, a pour objectif de répertorier les menus de restaurants gastronomiques et d'offrir bien plus qu'un simple système de réservation. Les clients auront la possibilité de composer leur propre menu, et leurs plats seront prêts dès leur arrivée.",
         "technologies": ["#HTML", "#SASS", "#Animation"],
         "icones": {
@@ -22,7 +22,7 @@
       },
       {
         "nom": "Dot Icon",
-        "image": "../src/assets/projectsImg/doticon.png",
+        "image": "doticon",
         "description": "Création d'icônes : Reliez les points sur une grille pour créer des icônes uniques.Téléchargez votre création en tant que fichier SVG. Réinitialisation Facile : Commencez un nouveau dessin avec un simple clic sur le bouton de réinitialisation",
         "technologies": ["#React", "#P5_Wrapper", "#SVG.JS"],
         "icones": {
@@ -32,7 +32,7 @@
       },
       {
         "nom": "Morpion The Game",
-        "image": "../src/assets/projectsImg/morpion.png",
+        "image": "morpion",
         "description": "Morpion The Game est un jeu de morpion en ligne. Le but du jeu est d'aligner trois symboles identiques horizontalement, verticalement ou en diagonale avant son adversaire. Ce jeu reflete mes premiers pas dans le developement de jeux de plateau en ligne",
         "technologies": ["#HTML", "#CSS", "#JAVASCRIPT"],
         "icones": {
@@ -41,7 +41,7 @@
         }
       },    {
         "nom": "Idée  de portfolio",
-        "image": "../src/assets/projectsImg/portfolio1.png",
+        "image": "portfolio1",
         "description": "Idée de portfolio pour le projet 12 de la formation OpenClassrooms, pour ce projet j'ai décidé d'experimenté  le framework CSS Tailwind, la librairie Three JS, la librairie Framer Motion et également l'implémentation d 'Email JS pour le formulaire.",
         "technologies": ["#React", "#Tailwind", "#Three JS", "#Framer Motion"],
         "icones": {
@@ -51,7 +51,7 @@
       },
       {
         "nom": "Sheep LABS",
-        "image": "../src/assets/projectsImg/sheeplabs.png",
+        "image": "sheeplabs",
         "description": "Sheep Labs est un site web conçu pour démarcher des TPE/PME en vue de créer leur identité visuelle et/ou leur site web. L'objectif est de les aider à établir une présence en ligne efficace. Le site est actuellement en développement. Version alpha",
         "technologies": ["#Typescript", "#React", "#Gsap", "#React intl"],
         "icones": {
