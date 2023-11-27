@@ -43,7 +43,7 @@ const MenuBar = ({ changeLanguage }) => {
                 <a href="#Works">
                     <FormattedMessage id="navbar.works" defaultMessage="WORKS" />
                 </a>
-                <a href="#Agency">
+                <a href="#More">
                     <FormattedMessage id="navbar.more" defaultMessage="MORE" />
                 </a>
             </div>
