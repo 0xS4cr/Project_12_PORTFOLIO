@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,700;0,800;0,900;0,1000;1,500;1,700;1,900;1,1000&display=swap');
+
+@font-face {
+  font-family: 'geomanist';
+  src: url('../assets/fonts/geomanist.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+    --banner-background: url('../assets/profil.jpg'); 
+    --background:#ffffff;
+    --text-color: #121212;
+    --accent-color: #fda7a6;
+    --font-family: 'Noto Sans', sans-serif;
+    --font-head: 'geomanist', sans-serif;
+    --font-title: 'Nunito', sans-serif;
+    --alert: red;
+  }
+  
+  [data-theme="dark"] {
+    --banner-background: url('../assets/profilblack.jpg'); 
+    --background: #000000;
+    --text-color: #ffffff;
+    --accent-color: #405061;
+  }
+  

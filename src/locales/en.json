@@ -1,0 +1,32 @@
+{   
+  "navbar.home": "HOME",  
+  "navbar.works": "WORKS",
+  "navbar.more": "MORE",
+
+  "banner.header1": "Independant web developer",
+    "banner.header2": "Based in France",
+
+    "banner.title1": "About me",
+    "banner.subtitle11": "Work for money and",
+    "banner.subtitle12": "Develope for love! My name is Clément,",
+    "banner.subtitle13": "a Front-end / React developer,",
+    "banner.subtitle14": "independent and based in France.",
+    "banner.subtitle15": "Available for freelance assignments,",
+    "banner.subtitle16": "I prefer remote but can,",
+    "banner.subtitle17": "if necessary.",
+
+    "banner.title2": "Contact",
+
+    "banner.title3": "Services",
+    "banner.subtitle31": "Visual identity",
+    "banner.subtitle32": "Website and web application",
+    "banner.subtitle33": "Search engine optimization",
+    "banner.subtitle34": "Social networks",
+
+    "banner.title4": "Technologies",
+
+    "learn.title": "MY PATH IN CODE",
+    "learn.subtitle1": "I started coding when I was younger, tinkering with Python scripts for Counter Strike. It was more of a hobby than anything else, but it really gave me a taste for programming. Like many developers in France, I trained at the Site du Zéro. I've always been the type to learn by myself, exploring and experimenting in my spare time.",
+    "learn.subtitle2": "In 2023, I decided it was time to officially validate my skills. I joined a training course at OpenClassrooms to specialize in web development. It was a big step for me, to finally make my passion my profession. What I love about programming is that you're never limited to a single language or technology. I'm still learning and adapting, always curious to discover new horizons in this field."
+  }
+  

@@ -1,0 +1,35 @@
+{
+    "navbar.home": "ACCUEIL",  
+    "navbar.works": "PROJETS",
+    "navbar.more": "PLUS",
+
+    "banner.header1": "Développeur Web indépendant",
+    "banner.header2": "Basé en France",
+
+    "banner.title1": "à propos de moi",
+    "banner.subtitle11": "Je travaille pour l'argent et",
+    "banner.subtitle12": "développe par amour ! Je m'appelle Clément,",
+    "banner.subtitle13": "un développeur Front-end / React,",
+    "banner.subtitle14": "indépendant et basé en France.",
+    "banner.subtitle15": "Disponible pour mission Freelance,",
+    "banner.subtitle16": "je privilégie le remote mais je peux,",
+    "banner.subtitle17": "me déplacer ponctuellement si nécessaire.",
+
+    "banner.title2": "Contact",
+
+    "banner.title3": "Compétences",
+    "banner.subtitle31": "Identité visuelle",
+    "banner.subtitle32": "Site et application web",
+    "banner.subtitle33": "Référencement naturel",
+    "banner.subtitle34": "Réseaux sociaux",
+
+    "banner.title4": "Technologies",
+
+    "learn.title": "MON PARCOURS DANS LE CODE",
+    "learn.subtitle1": "J'ai commencé à coder quand j'étais plus jeune, en bricolant des scripts Python pour Counter Strike. C'était plus un hobby qu'autre chose, mais ça m'a vraiment donné le goût de la programmation. Comme beaucoup de développeurs en France, je me suis formé sur le Site du Zéro. J'ai toujours été du genre à apprendre par moi-même,en explorant et en expérimentant pendant mon temps libre.",
+    "learn.subtitle2": "   En 2023, j'ai décidé qu'il était temps de valider officiellement mes compétences. J'ai rejoint une formation chez OpenClassrooms pour me spécialiser en développement web. C'était un gros pas pour moi, pour enfin faire de ma passion mon métier. Ce que j'aime dans la programmation, c'est qu'on n'est jamais limité à un seul langage ou à une seule technologie. Je continue à apprendre et à m'adapter, toujours curieux de découvrir de nouveaux horizons dans ce domaine."
+
+
+
+  }
+  
