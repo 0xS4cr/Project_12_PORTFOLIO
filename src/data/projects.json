@@ -45,7 +45,7 @@
         "description": "Idée de portfolio pour le projet 12 de la formation OpenClassrooms, pour ce projet j'ai décidé d'experimenté  le framework CSS Tailwind, la librairie Three JS, la librairie Framer Motion et également l'implémentation d 'Email JS pour le formulaire.",
         "technologies": ["#React", "#Tailwind", "#Three JS", "#Framer Motion"],
         "icones": {
-          "siteWeb": "https://cr-portfolio-kappa.vercel.app/",
+          "siteWeb": "https://perso-portfolio-2.vercel.app/",
           "gitHub": "https://github.com/0xS4cr/Perso-PORTFOLIO_2"
         }
       },
