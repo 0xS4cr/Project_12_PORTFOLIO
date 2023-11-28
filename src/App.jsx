@@ -27,6 +27,37 @@ class App extends Component {
     return (
       <IntlProvider locale={language} messages={messages[language]}>
         <Helmet>
+              <!-- script For schema.org local ref-->
+		<script type="application/ld+json">
+      {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Clément RENAUD",
+            "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 grande rue",
+            "postalCode": "70180",
+            "addressLocality": "Vereux"
+            },
+            "openingHours": "Mo, Tu, We, Th, Fr 09:00-17:00",
+            "telephone": "07 69 91 39 09",
+            "url": "www.clementrenaud.fr/",
+            "image": "",
+            "priceRange" : "developer front-end: à partir de 350€/journée"
+      }
+  </script>
+  <!-- Meta for Facebook -->
+  <meta property="og:title" content="Clément RENAUD" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://clementrenaud.fr/" />
+  <meta property="og:image" content="" />
+  <meta property="og:description"
+  content="Clément RENAUD, dévellopeur web front-end. intégration, react, javascript, full-remote.">
+  <!-- Meta for twitter -->
+  <meta name="twitter:title" content="Nina Carducci">
+  <meta name="twitter:description"
+    content="Clément RENAUD, dévellopeur web front-end. intégration, react, javascript, full-remote.">
+  <meta name="twitter:image" content="">
           <title>CR | Portfolio</title>
         </Helmet>
 
